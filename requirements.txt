@@ -1,0 +1,6 @@
+google-generativeai
+duckduckgo-search
+numpy
+python-dotenv
+colorama
+requests
